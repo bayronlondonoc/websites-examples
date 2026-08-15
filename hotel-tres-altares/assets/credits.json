@@ -1,0 +1,79 @@
+{
+  "pueblo": {
+    "src": "assets/img/pueblo.jpg",
+    "title": "Jardin, Colombia",
+    "creator": "szeke",
+    "creator_url": "https://www.flickr.com/photos/43355249@N00",
+    "license": "by-sa",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/43355249@N00/24450868541",
+    "source": "flickr"
+  },
+  "pueblito": {
+    "src": "assets/img/pueblito.jpg",
+    "title": "Pueblito Paisa",
+    "creator": "Luz Adriana Villa A.",
+    "creator_url": "https://www.flickr.com/photos/11599314@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/11599314@N00/2143554665",
+    "source": "flickr"
+  },
+  "bandeja": {
+    "src": "assets/img/bandeja.jpg",
+    "title": "Bandeja paisa",
+    "creator": "Jorge Lascar",
+    "creator_url": "https://www.flickr.com/photos/8721758@N06",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/8721758@N06/5082434401",
+    "source": "flickr"
+  },
+  "coffee": {
+    "src": "assets/img/coffee.jpg",
+    "title": "Colombia - Coffee Triangle 012 - coffee plantation tour",
+    "creator": "mckaysavage",
+    "creator_url": "https://www.flickr.com/photos/56796376@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/56796376@N00/8808037070",
+    "source": "flickr"
+  },
+  "guatape": {
+    "src": "assets/img/guatape.jpg",
+    "title": "Guatapé",
+    "creator": "Diego Torquemada",
+    "creator_url": "https://www.flickr.com/photos/31323723@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/31323723@N00/3433138055",
+    "source": "flickr"
+  },
+  "flowers": {
+    "src": "assets/img/flowers.jpg",
+    "title": "Silletero",
+    "creator": "morrissey",
+    "creator_url": "https://www.flickr.com/photos/44124369279@N01",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/44124369279@N01/10968356664",
+    "source": "flickr"
+  },
+  "comuna13": {
+    "src": "assets/img/comuna13.jpg",
+    "title": "Comuna 13, Medellin, Colombia",
+    "creator": "*rboed*",
+    "creator_url": "https://www.flickr.com/photos/92082510@N04",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/92082510@N04/52998637301",
+    "source": "flickr"
+  }
+}
