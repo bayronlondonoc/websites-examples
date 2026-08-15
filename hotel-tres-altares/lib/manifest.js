@@ -65,8 +65,8 @@
         name: "Turismo Religioso",
         tagline: "Templos y santuarios de la Antioquia devota.",
         text: "Un recorrido por los destinos religiosos más representativos de la región. Empieza en la Iglesia de Santa Ana, a pocas cuadras del hotel.",
-        img: null,
-        alt: ""
+        img: "assets/img/iglesia.jpg",
+        alt: "Iglesia de pueblo antioqueño con sus torres y la fuente del atrio"
       },
       {
         id: "pueblito",

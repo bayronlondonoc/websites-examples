@@ -1,36 +1,25 @@
 {
-  "pueblo": {
-    "src": "assets/img/pueblo.jpg",
-    "title": "Jardin, Colombia",
-    "creator": "szeke",
-    "creator_url": "https://www.flickr.com/photos/43355249@N00",
-    "license": "by-sa",
-    "license_version": "2.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
-    "foreign_landing_url": "https://www.flickr.com/photos/43355249@N00/24450868541",
-    "source": "flickr"
-  },
-  "pueblito": {
-    "src": "assets/img/pueblito.jpg",
-    "title": "Pueblito Paisa",
-    "creator": "Luz Adriana Villa A.",
-    "creator_url": "https://www.flickr.com/photos/11599314@N00",
-    "license": "by",
-    "license_version": "2.0",
-    "license_url": "https://creativecommons.org/licenses/by/2.0/",
-    "foreign_landing_url": "https://www.flickr.com/photos/11599314@N00/2143554665",
-    "source": "flickr"
-  },
   "bandeja": {
     "src": "assets/img/bandeja.jpg",
-    "title": "Bandeja paisa",
-    "creator": "Jorge Lascar",
-    "creator_url": "https://www.flickr.com/photos/8721758@N06",
-    "license": "by",
-    "license_version": "2.0",
-    "license_url": "https://creativecommons.org/licenses/by/2.0/",
-    "foreign_landing_url": "https://www.flickr.com/photos/8721758@N06/5082434401",
-    "source": "flickr"
+    "title": "Bandeja paisa 30062011",
+    "creator": "Dtarazona",
+    "creator_url": "https://commons.wikimedia.org/wiki/User:Dtarazona",
+    "license": "by-sa",
+    "license_version": "3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=15705199",
+    "source": "wikimedia"
+  },
+  "bano": {
+    "src": "assets/img/bano.jpg",
+    "title": "Modern Bathroom",
+    "creator": "Travel Adventures",
+    "creator_url": "https://stocksnap.io/author/183665",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://stocksnap.io/photo/modern-bathroom-SX2H0BU5EG",
+    "source": "stocksnap"
   },
   "coffee": {
     "src": "assets/img/coffee.jpg",
@@ -43,15 +32,26 @@
     "foreign_landing_url": "https://www.flickr.com/photos/56796376@N00/8808037070",
     "source": "flickr"
   },
-  "guatape": {
-    "src": "assets/img/guatape.jpg",
-    "title": "Guatapé",
-    "creator": "Diego Torquemada",
-    "creator_url": "https://www.flickr.com/photos/31323723@N00",
+  "comedor": {
+    "src": "assets/img/comedor.jpg",
+    "title": "Places Restaurant",
+    "creator": "Michael Browning",
+    "creator_url": "https://stocksnap.io/author/4439",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://stocksnap.io/photo/places-restaurant-P8Q51D175I",
+    "source": "stocksnap"
+  },
+  "comuna13": {
+    "src": "assets/img/comuna13.jpg",
+    "title": "Comuna 13, Medellin, Colombia",
+    "creator": "*rboed*",
+    "creator_url": "https://www.flickr.com/photos/92082510@N04",
     "license": "by",
     "license_version": "2.0",
     "license_url": "https://creativecommons.org/licenses/by/2.0/",
-    "foreign_landing_url": "https://www.flickr.com/photos/31323723@N00/3433138055",
+    "foreign_landing_url": "https://www.flickr.com/photos/92082510@N04/52998637301",
     "source": "flickr"
   },
   "flowers": {
@@ -65,15 +65,103 @@
     "foreign_landing_url": "https://www.flickr.com/photos/44124369279@N01/10968356664",
     "source": "flickr"
   },
-  "comuna13": {
-    "src": "assets/img/comuna13.jpg",
-    "title": "Comuna 13, Medellin, Colombia",
-    "creator": "*rboed*",
-    "creator_url": "https://www.flickr.com/photos/92082510@N04",
+  "guatape": {
+    "src": "assets/img/guatape.jpg",
+    "title": "Guatapé",
+    "creator": "Diego Torquemada",
+    "creator_url": "https://www.flickr.com/photos/31323723@N00",
     "license": "by",
     "license_version": "2.0",
     "license_url": "https://creativecommons.org/licenses/by/2.0/",
-    "foreign_landing_url": "https://www.flickr.com/photos/92082510@N04/52998637301",
+    "foreign_landing_url": "https://www.flickr.com/photos/31323723@N00/3433138055",
     "source": "flickr"
+  },
+  "habitacion-1": {
+    "src": "assets/img/habitacion-1.jpg",
+    "title": "Hotel Room",
+    "creator": "Travel Adventures",
+    "creator_url": "https://stocksnap.io/author/183665",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://stocksnap.io/photo/hotel-room-DGBAEIS339",
+    "source": "stocksnap"
+  },
+  "habitacion-2": {
+    "src": "assets/img/habitacion-2.jpg",
+    "title": "Hotel guest room, interior design",
+    "creator": "Desconocido",
+    "creator_url": "",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://www.rawpixel.com/image/6041294/photo-image-public-domain-free-bedroom",
+    "source": "rawpixel"
+  },
+  "habitacion-3": {
+    "src": "assets/img/habitacion-3.jpg",
+    "title": "Room Interior",
+    "creator": "Travel Adventures",
+    "creator_url": "https://stocksnap.io/author/183665",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://stocksnap.io/photo/room-interior-WKMVXACB6C",
+    "source": "stocksnap"
+  },
+  "iglesia": {
+    "src": "assets/img/iglesia.jpg",
+    "title": "Basílica Menor de la Inmaculada Concepción y fuente Parque El Libertador - Jardín.jpg",
+    "creator": "Hiperion93",
+    "creator_url": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_Menor_de_la_Inmaculada_Concepci%C3%B3n_y_fuente_Parque_El_Libertador_-_Jard%C3%ADn.jpg",
+    "license": "Public domain",
+    "license_version": "",
+    "license_url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "foreign_landing_url": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_Menor_de_la_Inmaculada_Concepci%C3%B3n_y_fuente_Parque_El_Libertador_-_Jard%C3%ADn.jpg",
+    "source": "wikimedia"
+  },
+  "parque": {
+    "src": "assets/img/parque.jpg",
+    "title": "Parque de Jardín.jpg",
+    "creator": "Hiperion93",
+    "creator_url": "https://commons.wikimedia.org/wiki/File:Parque_de_Jard%C3%ADn.jpg",
+    "license": "Public domain",
+    "license_version": "",
+    "license_url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "foreign_landing_url": "https://commons.wikimedia.org/wiki/File:Parque_de_Jard%C3%ADn.jpg",
+    "source": "wikimedia"
+  },
+  "pueblito": {
+    "src": "assets/img/pueblito.jpg",
+    "title": "Alumbrados med1",
+    "creator": "Staticshakedown",
+    "creator_url": "https://commons.wikimedia.org/wiki/User:Staticshakedown",
+    "license": "by-sa",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=92495608",
+    "source": "wikimedia"
+  },
+  "pueblo": {
+    "src": "assets/img/pueblo.jpg",
+    "title": "CasaJardinAntioquia.jpg",
+    "creator": "No machine-readable author provided. Scabredon~commonswiki assumed (based on cop",
+    "creator_url": "https://commons.wikimedia.org/wiki/File:CasaJardinAntioquia.jpg",
+    "license": "Public domain",
+    "license_version": "",
+    "license_url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "foreign_landing_url": "https://commons.wikimedia.org/wiki/File:CasaJardinAntioquia.jpg",
+    "source": "wikimedia"
+  },
+  "recepcion": {
+    "src": "assets/img/recepcion.jpg",
+    "title": "Luxury resort lobby",
+    "creator": "Desconocido",
+    "creator_url": "",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://www.rawpixel.com/image/6042791/photo-image-public-domain-wood-house",
+    "source": "rawpixel"
   }
 }

@@ -23,7 +23,7 @@ los equivalentes libres más cercanos. **Van auto-hospedadas** en `assets/fonts/
 de Google, así que el sitio no se rompe si Google Fonts falla o está bloqueado.
 
 Los **tres arcos** del logo son la firma visual: aparecen en el logo del nav, el splash, el footer,
-los iconos de amenidades, los marcos de imagen (`.arch-frame`) y los placeholders de foto.
+los iconos de amenidades y los marcos de imagen (`.arch-frame`).
 
 ---
 
@@ -55,52 +55,66 @@ creditos.html       Créditos fotográficos
 
 ---
 
-## Pendientes antes de enviársela al hotel
+## Fotografía
 
-### 1. Fotos del hotel (lo más importante)
-Las fotos de **espacios propios del hotel** están como placeholders con el motivo de arcos —
-a propósito. Poner stock genérico de habitaciones de hotel se nota y quema el pitch.
+El sitio ya no tiene placeholders: todas las imágenes son fotos reales con licencia libre.
+Se dividen en dos grupos, y solo uno hay que reemplazar.
 
-Lo que hace falta que les pidas o saques de su Instagram:
-- Fachada del hotel
-- Recepción / lobby
-- 3 habitaciones (sencilla, doble, familiar)
-- Baño
-- Comedor / zona de desayuno
-- Alguna zona común o patio
+### Grupo A — Antioquia real (se quedan)
+Lugares y cosas que existen de verdad, en su mayoría de Jardín y Medellín. No se tocan.
 
-Van en `assets/img/`. Los placeholders están marcados con la clase `.arch-ph` — se reemplazan
-por un `<img>` y listo.
+| Archivo | Qué es | Licencia |
+|---|---|---|
+| `pueblo.jpg` | Casa colonial de Jardín, Antioquia — **es la foto del hero** | Dominio público |
+| `parque.jpg` | Parque de Jardín con balcones y montaña | Dominio público |
+| `iglesia.jpg` | Basílica de Jardín | Dominio público |
+| `bandeja.jpg` | Bandeja paisa | CC BY-SA |
+| `pueblito.jpg` | Alumbrados navideños de Medellín | CC BY-SA |
+| `guatape.jpg` | Calle de Guatapé con zócalos | CC BY |
+| `comuna13.jpg` | Comuna 13, Medellín | CC BY |
+| `flowers.jpg` | Silletero | CC BY |
+| `coffee.jpg` | Finca cafetera | CC BY |
 
-### 2. Categorías de habitación
+### Grupo B — Interiores de hotel (reemplazar con fotos del hotel)
+Stock profesional CC0 de StockSnap y Rawpixel. Se ven bien y están en la paleta correcta,
+pero **no son el Hotel Tres Altares**. Estas son las que hay que cambiar:
+
+| Archivo | Qué muestra ahora | Qué foto pedirles |
+|---|---|---|
+| `recepcion.jpg` | Lobby con baldosa y vegetación | Recepción / zona común |
+| `habitacion-1.jpg` | Habitación con piso de madera | Habitación sencilla |
+| `habitacion-2.jpg` | Habitación con dos camas | Habitación doble |
+| `habitacion-3.jpg` | Habitación con sala y balcón | Habitación familiar |
+| `bano.jpg` | Baño moderno en piedra | Baño |
+| `comedor.jpg` | Mesa servida en restaurante | Comedor / desayuno |
+
+Para cambiarlas: sobrescribir el archivo en `assets/img/` con el mismo nombre y borrar su
+entrada en `assets/credits.json`. No hay que tocar el HTML.
+
+**Falta una foto de la fachada real del hotel.** Ahora mismo el hero usa una casa colonial de
+Jardín; funciona como imagen de contexto paisa, pero lo ideal es la fachada de Tres Altares.
+
+### Categorías de habitación
 El sitio actual **no publica** tipos ni tarifas. Puse sencilla / doble / familiar como estructura,
 y lo digo explícitamente en la página. Confirmar con el hotel los nombres y capacidades reales.
 
-### 3. Tiempos y distancias
+### Tiempos y distancias
 No inventé minutos. La sección de entorno usa "a pie" / "en carro" con los lugares que sí
 menciona su web. Cuando confirmen los tiempos exactos, se cambian en `lib/manifest.js` → `entorno`.
 
-### 4. Fiestas de Sabaneta
+### Fiestas de Sabaneta
 La tarjeta de "Fiestas de Sabaneta" está genérica porque su web no detalla fechas. Su blog tiene
 material sobre el Día de las Velitas y los buñuelos gigantes; se puede desarrollar.
-
----
-
-## Fotos de contexto (temporales, con licencia)
-
-7 imágenes de Antioquia/Colombia con licencia Creative Commons verificada, acreditadas en
-`creditos.html` y en `assets/credits.json`. Son de contexto real (Comuna 13, Guatapé, café,
-silletero, bandeja paisa, Pueblito Paisa, pueblo antioqueño) — no fingen ser el hotel.
 
 ---
 
 ## Cómo verla
 
 ```bash
-npx http-server "C:\Users\Windows\Downloads\Proyectos\Websites Examples\hotel-tres-altares" -p 8781 -c-1
+npx http-server "C:\Users\Windows\Downloads\Proyectos\Websites Examples\hotel-tres-altares" -p 8790 -c-1
 ```
 
-Luego abrir `http://127.0.0.1:8781/`. También funciona con doble clic en `index.html`
+Luego abrir `http://127.0.0.1:8790/`. También funciona con doble clic en `index.html`
 (solo la lista de créditos necesita servidor, porque lee un JSON).
 
 ---
